@@ -1,6 +1,8 @@
+# -*- coding: utf-8 -*-
+
 from twython import TwythonStreamer
 
-from auth import (consumer_key, consumer_secret,
+from auth_fin import (consumer_key, consumer_secret,
                   access_token, access_token_secret)
 
 
